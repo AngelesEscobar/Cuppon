@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-green{
+    background-color: #28A745;
+}
+
+.logo-blanco{
+    width: 86px;
+    height: 25px;
+}
+
+
+.price-offer{
+    color: #28A745;
+}
+.logo-black{
+    width: 86px;
+    height: 25px;
+}
+
+.position-card{
+    margin: auto;
+    margin-top: 25px;
+}
+
+.card-margin{
+    margin-bottom: 30px;
+}
